@@ -40,24 +40,29 @@ Dashboard:
 •	Allows quick access to other sections of the system.
 ![ Home page](https://github.com/ShohabSikder/JavaSwingProject/blob/main/Screenshot/Screenshot%202024-03-15%20121754.png)
 
-:pushpin: Product Add/Update page for Admin:
-Easily add new products to the shop inventory, including details such as name, description, category, quantity, and price.
-![ Add Product page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/add.png)
+:pushpin: Manageroom:
+•	Administrators can add new rooms to the system or update existing room details as needed.
+•	Enables easy management of room availability and rates.
+![ Manageroom page](https://github.com/ShohabSikder/JavaSwingProject/blob/main/Screenshot/Screenshot%202024-03-15%20121832.png)
 
-:pushpin: Purchase Product page for Admin:
-Track purchases of new inventory items, including supplier details, purchase date, quantity, and cost per unit. Set and update prices for products, allowing for flexible pricing strategies and adjustments based on market conditions or business requirements.
-![ Purchase Product page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/purchase2.png)
+:pushpin: 4.	Check-In Section:
+•	Customers can be checked in with their details, including:
+•	Personal information.
+•	Duration of stay.
+•	System automatically updates room status upon check-in.
+![ Check-In page](https://github.com/ShohabSikder/JavaSwingProject/blob/main/Screenshot/Screenshot%202024-03-15%20121901.png)
 
-:pushpin: Register or search old Customer page for Admin:
-Register new customers by capturing essential information such as name, contact details, and address for effective customer management.
-![ Order page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/order.png)
-![ Order2 page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/order2.png)
+:pushpin: Check-out Section:
+•	Customers are checked out through the administrator.
+•	Billing system facilitates the calculation of the final bill based on the customer's stay.
+•	Provides an option to print the bill for the customer's reference.
+![ Check-out page](https://github.com/ShohabSikder/JavaSwingProject/blob/main/Screenshot/Screenshot%202024-03-15%20121926.png)
 
-:pushpin: Product Search for Sales:
-Effortlessly search for products within the inventory to facilitate sales transactions, ensuring quick and accurate selection for customers.
-![ Sales page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/cart2.png)
-:pushpin: Product Search for Sales:
-![ Sales page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/cart3.png)
+:pushpin: Customer Details Section:
+Administrators can:
+•	View a list of customers who have checked in and out.
+•	Filter customer data based on specific months for analysis and reporting purposes.
+![ Customer Details page](https://github.com/ShohabSikder/JavaSwingProject/blob/main/Screenshot/Screenshot%202024-03-15%20122103.png)
 
  :pushpin: Sales History Search:
  Easily retrieve sales history based on specified criteria such as date range and customer information, enabling efficient tracking and analysis of past transactions.
