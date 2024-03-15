@@ -1,7 +1,7 @@
 
 # Hotel_Management_System
 Hi there, and welcome to our Java Swing-based Hotel Management System (HMS). This all-inclusive solution is made to make managing your hotel business simple and effective Qualities:
-A page for logging in exists. dashboard where we can see the total revenue from booked or unbooked rooms. The administrator can add and update rooms in the manage room section as needed. Customers check in with their details in the check-in area. Customers will check out through the administrator and billing system in this part, and there is a print bill method available. additionally, the administrator can view the number of customers who check in and out for a given month in the customer details section. additionally, there is a log out feature that allows the administrator to see the return log in page for security reasons.
+A page for logging in exists. dashboard where we can see the total revenue from booked or unbooked rooms. The administrator can add and update rooms in the manage room section as needed. Customers check in with their details in the check-in area. Customers will check out through the administrator and billing system in this part, and there is a print bill method available. additionally, the administrator can view the number of customers who check in and out for a given month in the customer details section. additionally, there is a log-out feature that allows the administrator to see the return log in page for security reasons.
 
 ## Role
 Administrator
@@ -64,20 +64,14 @@ Administrators can:
 •	Filter customer data based on specific months for analysis and reporting purposes.
 ![ Customer Details page](https://github.com/ShohabSikder/JavaSwingProject/blob/main/Screenshot/Screenshot%202024-03-15%20122103.png)
 
- :pushpin: Sales History Search:
- Easily retrieve sales history based on specified criteria such as date range and customer information, enabling efficient tracking and analysis of past transactions.
-![ Order Details page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/orderDetails.png)
-:pushpin: Sales History Search:
-![ Order Details page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/orderDetails2.png)
+ :pushpin: Customer Bill Section :
+When a customer will be checked-out then it will show in the customer bill page section
+![ Customer Bill page](https://github.com/ShohabSikder/JavaSwingProject/blob/main/Screenshot/Screenshot%202024-03-15%20122142.png)
 
-:pushpin: Reporting and Analytics:
- Generate comprehensive reports and analytics on sales performance, inventory levels, customer trends, and others key metrics to support informed decision-making and business analysis.
-![ Sales Report page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/salesReport.png)
-:pushpin: Reporting and Analytics:
-![ customer List page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/customerList2.png)
-:pushpin: Reporting and Analytics:
-![ product Sales page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/productSales2.png)
+:pushpin: Customer bill Printed Copy:
+when the print button is clicked it will be printed of the bill of the customer
+![ Print bill ](https://github.com/ShohabSikder/JavaSwingProject/blob/main/Screenshot/Screenshot%202024-03-15%20122451.png)
 
-:pushpin: Reporting Delivery:
-Update Delivery status.
-![ delivery page](https://github.com/fatemazohor/SwingSMEMangagement/blob/main/Screenshot/delivery.png)
+:pushpin:	Logout Functionality:
+•	Ensures system security by allowing administrators to log out, returning them to the login page.
+![ Logout page](https://github.com/ShohabSikder/JavaSwingProject/blob/main/Screenshot/Screenshot%202024-03-15%20122245.png)
