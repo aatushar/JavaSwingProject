@@ -25,7 +25,7 @@ Administrator
 - :  [<img src="Screenshot/mysql.png" width="80" height="80">](https://github.com/fatemazohor) MySQL
 - :  MySQL Workbench
 - :  Apache NetBeans
-- :  [<img src="Screenshot/Java.png" width="80" height="80">](https://www.java.com/en/download/help/whatis_java.html) Java JDK 17+
+- : Java JDK 17+
   
 :pushpin: Login page for Admin:
 Implement secure user authentication and authorization mechanisms to control access to sensitive features and data, ensuring data integrity and confidentiality.
