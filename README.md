@@ -13,7 +13,7 @@ Administrator
 5. Customer bill will be printed copy by administrator
 ## Technologies used:-
 ### Front-End Development:
--  [<img src="Screenshot/Swing.png" width="80" height="80">](https://docs.oracle.com/javase/tutorial/uiswing/) Java Swing
+-  [<img src="Screenshot/Swing.png" width="80" height="80">](https://github.com/aatushar/Java-Swing-Project/blob/main/Asset/file.webp) Java Swing
 -  [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/css3.svg" width="80" height="80">](https://github.com/fatemazohor)Css
 -  [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/javascript.svg" width="80" height="80">](https://github.com/fatemazohor) Javascript
 - [<img src="https://github.com/fatemazohor/fatemazohor/blob/main/svg/bootstrap-logo-shadow.png" width="80" height="80">](https://github.com/fatemazohor) BootStrap
